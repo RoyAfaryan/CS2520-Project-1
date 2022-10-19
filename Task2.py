@@ -4,6 +4,8 @@
 
 #Task 2
 
+import math
+
 def fraction(num, den):
     value = num/den
     return value
